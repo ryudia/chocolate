@@ -1,6 +1,6 @@
 # Unity 관련 불필요한 파일 및 폴더 제외
 
-# Unity 기본 생성 파일 (라이브러리, 캐시 등)
+# Unity 기본 생성 파일 및 폴더 (라이브러리, 캐시 등)
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -9,7 +9,7 @@
 [Ll]ogs/
 UserSettings/
 
-# Visual Studio 관련 파일
+# Visual Studio 관련 파일 및 폴더
 .vscode/
 *.csproj
 *.unityproj
@@ -23,31 +23,27 @@ UserSettings/
 *.svd
 *.pdb
 
-# Rider (JetBrains) 관련 파일
+# Rider (JetBrains) 관련 파일 및 폴더
 .idea/
 *.iml
 
-# MacOS 관련 파일
+# macOS 관련 파일
 .DS_Store
 
 # Windows 관련 파일
 Thumbs.db
 Desktop.ini
 
-# Unity 빌드용 캐시 및 설정 파일
-[Bb]uilds/
-[Bb]uild/
-
 # Crash Reports
 .crash/
 
-# Log 파일
+# 로그 파일
 *.log
 
 # Unity 라이선스 파일
 *.ulf
 
-# Ignore PlayModeState (Unity 2020+)
+# PlayModeState (Unity 2020+)
 PlayModeState.xml
 
 # Unity Cloud 관련 파일
