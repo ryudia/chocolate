@@ -57,7 +57,11 @@ VR 발표 연습 시뮬레이션은 현실에서 발표 연습을 하기 어려�
   + 장소 선택<br>
     ![slideshow](./image/gif04.gif)
 
-
+## ➕ **추가로 구현하고 싶은 기능**
+- 칠판 필기 기능
+- 자체 테스트 기능
+- 청중 포즈 트래킹 기능
+  
 ## 💡 **Reference**
 - Motion tracking<br>
   [Move Unity humanoid avatar](https://github.com/rlsid/rotate-unity-avatar-joint)<br>
