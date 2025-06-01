@@ -41,6 +41,9 @@ VR 발표 연습 시뮬레이션은 현실에서 발표 연습을 하기 어려�
   + 심혜진(2171454)
     > 그래픽 구현
 
+## 🎥 **시연 영상**
+- [▶](https://drive.google.com/file/d/1N-janITLHQsT6kL0-s5QKOE_VjvpVn6N/view?usp=sharing)
+
 ## 💡 **Reference**
 - Motion tracking<br>
   [Move Unity humanoid avatar](https://github.com/rlsid/rotate-unity-avatar-joint)<br>
@@ -52,8 +55,3 @@ VR 발표 연습 시뮬레이션은 현실에서 발표 연습을 하기 어려�
   [Simpleicons](https://simpleicons.org/)
 
 ---
-
-
-# 시연 영상
-
-https://drive.google.com/file/d/1N-janITLHQsT6kL0-s5QKOE_VjvpVn6N/view?usp=sharing
