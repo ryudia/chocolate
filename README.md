@@ -43,7 +43,12 @@ VR 발표 연습 시뮬레이션은 현실에서 발표 연습을 하기 어려�
 
 ## 🎥 **시연 영상 및 기능 소개**
 - [▶](https://drive.google.com/file/d/1N-janITLHQsT6kL0-s5QKOE_VjvpVn6N/view?usp=sharing)
-
+- 기능 소개
+  + 거울 생성 기능<br>
+    ![structure](./image/gif01.gif)
+    <br><br>
+  + 적응 훈련 기능<br>
+    ![structure](./image/gif02.gif)
 ## 💡 **Reference**
 - Motion tracking<br>
   [Move Unity humanoid avatar](https://github.com/rlsid/rotate-unity-avatar-joint)<br>
