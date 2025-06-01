@@ -73,3 +73,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Paid Unity assets (do not share)
+/[Aa]ssets/AK\ Studio\ Art/
+/[Aa]ssets/University\ Classroom/
+
+
